@@ -1,3 +1,3 @@
 # hello-world
 Very first repository
-Firt steps are always hard. 
+First steps are always hard. 
